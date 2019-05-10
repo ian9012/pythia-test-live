@@ -1,8 +1,8 @@
 #!/usr/bin/env php
 <?php
 
-use Symfony\Component\Console\Input\ArgvInput;
-use Symfony\Component\Console\Output\ConsoleOutput;
+use Symfony\Component\Console\Input\ArgvInput as Argv;
+use Symfony\Component\Console\Output\ConsoleOutput as Console;
 
 /*
 |--------------------------------------------------------------------------
