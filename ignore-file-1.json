@@ -2,7 +2,7 @@
 	"project": "pythia-test-live",
 	"files":
 	[	"lumen-framework/ignorefiles/IgnoreFileCase3.php",
-		"lumen-framework/ignorefiles/IgnoreFileCase2.php",	
+		"lumen-framework/ignorefiles/IgnoreFileCase4.php",	
 		"README123.md",
 		"lumen-framework/composer.json"
 	]
