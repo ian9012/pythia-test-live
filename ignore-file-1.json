@@ -3,7 +3,7 @@
 	"files":
 	[	"lumen-framework/ignorefiles/IgnoreFileCase3.php",
 		"lumen-framework/ignorefiles/IgnoreFileCase4.php",	
-		"README123.md",
+		"README.md",
 		"lumen-framework/composer.json"
 	]
 }
