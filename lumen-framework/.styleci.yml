@@ -1,7 +1,7 @@
 php:
   preset: laravel
   disabled:
-    - unused_use
+    - unused_use123
     - whtf
 js: true
 css: true
