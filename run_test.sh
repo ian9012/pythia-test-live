@@ -1,3 +1,3 @@
 composer unit-ssss-testx
-composer functionaler-test
+composer fungsiler-test
 composer integration-test
