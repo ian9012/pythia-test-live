@@ -1,3 +1,3 @@
 composer unit-ssss-testx
-composer functionaler-test
+composer duitnow-test
 composer integration-test
