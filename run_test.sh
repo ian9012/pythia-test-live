@@ -1,3 +1,3 @@
 composer unit-ssss-testx
-composer duitnow-test-mangkuk
+composer duitnow-redis-mangkuk
 composer integration-test
