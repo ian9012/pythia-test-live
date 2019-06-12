@@ -1,3 +1,3 @@
 <?php
 
-echo 'This is an ABC file KOF';
+echo 'This is a Change file KOF';
